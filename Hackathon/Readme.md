@@ -1,0 +1,1 @@
+This is a hackerthon carried out by a team of three(Jazzmyne Miller, Neha and Joseph Itopa). The project was develop on sagemaker and after which it was deployed. The model was later rebuild and retrain.
