@@ -8,12 +8,11 @@ All listed below were covered by me through Renewable Africa 365.
 1. Python operators; arithmetic(unary and binary), relational and logical
 1. Conditional construct(if, if-else, if-elif-else) , conditional expression
 ### Iterable and data structures
-1. Introduction to python language
-1. Iterables and Data structures
-1. Functions or method definition
-1. Object Oriented Programming in python
-1. Introduction Python Libraries For AI
-1. More Python built-in Functions
+1. Iterables: while, for, break and continue, for with if-else, do-while.
+1. List, Dictionary and Tuples
+1. Building list, members of a list, List bounds, Slicing, List methods, Multi-dimensional list
+1. Building tuple, slicing tuple, modifying tuples
+1. Building dictionary, slicing dictionary, modifying dictionary.
 ### Functions or method definition
 1. Python function signature and definition
 1. function parameter , argument, return statement, calling function 
