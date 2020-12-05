@@ -14,10 +14,16 @@ All listed below were covered by me through Renewable Africa 365.
 1. Building tuple, slicing tuple, modifying tuples
 1. Building dictionary, slicing dictionary, modifying dictionary.
 ### Functions or method definition
-1. Python function signature and definition
-1. function parameter , argument, return statement, calling function 
-1. args and kwargs in function 
-1. Anonymous function; lambda expression
+1. Introduction to functions.
+   i)  What are functions?
+  ii) How functions operate?
+  iii) Type of functions
+       a) User - defined functions: writing function, parameter passing, documenting functions
+       b) Built-in Functions: print(), input(), eval(), exec(), len();importing modules, objects
+1. Function parameters
+1. Using loops with functions
+1. Generators and Decorators
+1. Introduction to classes
 ### Object Oriented Programming in python
 1. Class signature
 1. Initialization of parameters in class 
