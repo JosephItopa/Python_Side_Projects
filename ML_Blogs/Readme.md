@@ -1,4 +1,4 @@
-### Blog data science, machine learning and cloud computing.
+### Data Science, Machine Learning and Cloud Computing Blogs
 
 1. [Predicting Bed Utilization Rate during Pandemic](https://josephitopa.medium.com/predicting-hospital-bed-utilization-rate-during-pandemic-febdffd8cbd8)
 1. [Five Effective Steps for Introverts to Become Successful in Data Science](https://medium.com/omdena/five-effective-steps-for-introverts-to-become-successful-in-data-science-eab9c2014ce8)
